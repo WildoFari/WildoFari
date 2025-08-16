@@ -41,9 +41,9 @@
   <a href="mailto:yourmail@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+ <a href="https://www.linkedin.com/in/wildo-fariña-gómez-3500522b9" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/-Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
