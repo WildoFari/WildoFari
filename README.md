@@ -38,9 +38,9 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+ <a href="mailto:wildodevpy@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
  <a href="https://www.linkedin.com/in/wildo-fariña-gómez-3500522b9" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
