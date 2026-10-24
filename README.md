@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,50:A020F0,100:4B0082&height=200&section=header&text=WildoDev&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Developer%20%C2%B7%20Paraguay&descAlignY=55&descSize=20"/>
 
-<h1 align="center"><b>Hello, I'm WildoDev</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h2 align="center">Hello, I'm Wildo
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35">
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=A020F0&size=27&center=true&vCenter=true&width=600&lines=Developer;React+%C2%B7+Next.js+%C2%B7+React+Native;Building+full-stack+apps+with+TypeScript"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Developer;React+%C2%B7+Next.js+%C2%B7+React+Native;Building+full-stack+apps+with+TypeScript"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"> About Me
 
 Soy **Developer** de Paraguay. Construyo aplicaciones web con **React** y **Next.js**, y también desarrollo más allá del navegador:
 
@@ -25,7 +25,7 @@ Soy **Developer** de Paraguay. Construyo aplicaciones web con **React** y **Next
 
 ---
 
-## 🔧 Technologies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> Technologies
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -71,7 +71,7 @@ Soy **Developer** de Paraguay. Construyo aplicaciones web con **React** y **Next
 
 ---
 
-## 📫 Contact
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="35"> Contact
 
 <p align="center">
   <a href="mailto:wildodevpy@gmail.com">
@@ -82,4 +82,4 @@ Soy **Developer** de Paraguay. Construyo aplicaciones web con **React** y **Next
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:A020F0,100:7B68EE&height=120&section=footer&animation=twinkling"/>
