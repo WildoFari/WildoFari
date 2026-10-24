@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=A020F0&size=27&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+React+Native;Building+full-stack+apps+with+TypeScript"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&color=A020F0&size=27&center=true&vCenter=true&width=600&lines=Developer;React+%C2%B7+Next.js+%C2%B7+React+Native;Building+full-stack+apps+with+TypeScript"/>
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-I'm a **Frontend Developer** from Paraguay who builds web apps with **React** and **Next.js**, and lately I've been growing beyond the browser:
+Soy **Developer** de Paraguay. Construyo aplicaciones web con **React** y **Next.js**, y también desarrollo más allá del navegador:
 
-- 📱 Building **mobile apps** with **React Native + Expo** (maps, navigation, push notifications)
-- 🗄️ Working on the **full stack**: Next.js with **Prisma + PostgreSQL**, **Supabase** and authentication
-- ⚙️ Learning **Node.js** fundamentals with TypeScript on the backend
-- 🧪 Writing tests with **Vitest** and **Playwright**
+- 📱 Creo **apps móviles** con **React Native + Expo** (mapas, navegación, notificaciones push)
+- 🗄️ Trabajo en **full stack**: Next.js con **Prisma + PostgreSQL**, **Supabase** y autenticación
+- ⚙️ Desarrollo backend con **Node.js** y TypeScript
+- 🧪 Escribo tests con **Vitest** y **Playwright**
 
 ---
 
