@@ -71,6 +71,14 @@ Soy **Developer** de Paraguay. Construyo aplicaciones web con **React** y **Next
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"> GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WildoFari&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="35"> Contact
 
 <p align="center">
